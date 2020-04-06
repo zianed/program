@@ -5,7 +5,7 @@
 software released under licenses that guarantee a certain specific set of freedoms.
 
 ## 开源软件
-Open Source Initiative (OSI)
+开源促进会Open Source Initiative (OSI)
 http://opensource.org/
 
 开源软件定义
@@ -34,7 +34,7 @@ https://www.debian.org/social_contract#guidelines
 
 
 ## 自由软件
-Free Software Foundation (FSF)
+自由软件基金会Free Software Foundation (FSF)
 https://www.fsf.org/
 
 

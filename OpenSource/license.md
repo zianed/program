@@ -11,9 +11,9 @@ https://opensource.org/licenses/alphabetical
 
 | 协议 | 开源义务 | 备注 |
 | --- | --- | --- |
-| MIT | 分发软件时，必须保留原始的许可证声明。 |  |
+| MIT | 分发软件时，必须保留原始的许可证声明。 | 允许别人以任何方式使用你的代码同时署名原作者，但原作者不承担代码使用后的风险，当然也没有技术支持的义务。 |
 | BSD | 分发软件时，必须保留原始的许可证声明。 |  |
-| Apache | 分发软件时，必须保留原始的许可证声明。对于修改，必须向用户说明该文件修改过。 |  |
+| Apache | 分发软件时，必须保留原始的许可证声明。对于修改，必须向用户说明该文件修改过。 | 指明了作品归属者对用户专利上的一些授权。 |
 | MPL | 只要该许可证的代码在单独的文件中，新增的其他文件可以不用开源。对修必须开源 |  |
 
 
@@ -29,8 +29,8 @@ https://www.fsf.org/licensing/education
 
 | 协议 | 隔离说明 | 备注 |
 | --- | --- | --- |
-| GNU General Public License (GPL) | 只能进程隔离。 |  |  |
-| GNU Lesser General Public License (LGPL) | 只能动态链接。 |  |  |
+| GNU General Public License (GPL) | 只能进程隔离。 | 要求代码分发者或者以此代码为基础开发出来的衍生作品需要以同样的协议来发布。 |
+| GNU Lesser General Public License (LGPL) | 只能动态链接。 | |
 | GNU Affero General Public License (AGPL) |  |  |
 | GNU Free Documentation License (FDL) |  |  |
 

@@ -76,3 +76,11 @@ https://wiki.debian.org/DFSGLicenses
 ## License选择
 1. Apache2.0是对商业友好的开源License。
 2. MIT是开发者便利的开源License。
+
+
+## SPDX
+
+license standardized short identifier
+
+https://spdx.org/licenses/
+

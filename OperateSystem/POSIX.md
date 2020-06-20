@@ -26,10 +26,10 @@ The Base Specifications are developed and maintained by the Austin Group, a join
 POSIX.1-2017 defines a standard operating system interface and environment, including a command interpreter (or “shell”), and common utility programs to support applications portability at the source code level.
 
 规范包含如下四个部分：
-XBD 通用术语、概念
-XSH 系统服务函数定义
-XSU SHELL脚本语法和工具
-XRAT 标准有关基本原理
+- XBD 通用术语、概念
+- XSH 系统服务函数定义
+- XSU SHELL脚本语法和工具
+- XRAT 标准有关基本原理
 
 The Open Group Base Specifications Issue 7, 2018 edition
 IEEE Std 1003.1-2017 (Revision of IEEE Std 1003.1-2008)

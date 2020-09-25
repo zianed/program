@@ -5,30 +5,31 @@
 software released under licenses that guarantee a certain specific set of freedoms.
 
 ## 开源软件
-开源促进会Open Source Initiative (OSI)
+### 开源定义
+开源促进会Open Source Initiative (OSI)  
 http://opensource.org/
 
-开源软件定义
+开源软件定义  
 https://opensource.org/osd
 
 
-比较常见的开源基金会
-+ Apache基金会：Apache Software Foundation (ASF)
+### 比较常见的开源基金会
++ Apache基金会：Apache Software Foundation (ASF)  
 https://apache.org/foundation/
 
-+ Eclipse基金会：
++ Eclipse基金会：  
 http://www.eclipse.org/
 
-+ FreeBSD Foundation
++ FreeBSD Foundation  
 https://www.freebsdfoundation.org/
 
-+ Mozilla Foundation
++ Mozilla Foundation  
 https://foundation.mozilla.org/en/
 
-+ Python Software Foundation
++ Python Software Foundation  
 https://www.python.org/psf/
 
-+ Debian 自由软件指导方针 (Debian Free Software Guidelines, DFSG)
++ Debian 自由软件指导方针 (Debian Free Software Guidelines, DFSG)  
 https://www.debian.org/social_contract#guidelines
 
 

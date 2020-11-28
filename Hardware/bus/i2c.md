@@ -9,4 +9,7 @@ Inter-Integrated Circuit，集成电路总线，串行通信总线，飞利浦�
 ## SMBbus
 
 
+https://01.org/linuxgraphics/gfx-docs/drm/driver-api/i2c.html
+
+
 

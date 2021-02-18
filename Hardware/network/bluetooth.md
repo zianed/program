@@ -1,13 +1,15 @@
 # BlueTooth 蓝牙
 
 Exchange information between short-range radio frequency band.
-短距离无线电通信技术
+安全、低功耗、全球通用的短距离无线电通信技术
 
 ## 蓝牙标准组织
 
 Bluetooth Special Interest Group(Bluetooth SIG) 蓝牙技术联盟
 www.bluetooth.com
+
 建立蓝牙标准，发布蓝牙规范，认证蓝牙互操作，许可蓝牙技术和商标。
+遵从Bluetooth Patent/Copyright License Agreement and Bluetooth Trademark License Agreement(BTLA)
 
 ## 蓝牙功能 profile
 

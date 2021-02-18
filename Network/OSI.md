@@ -29,6 +29,8 @@ OSI七层网络模型：
 + Transport，传输层，Segment、Datagram
 + Network，网络层，Packet
 + Data link，数据链路层，Frame
+   + logical link control，LLC，逻辑链路控制子层
+   + medial access control，MAC，介质访问控制子层
 + Physical，物理层，Bit、Symbol
 
 
@@ -53,3 +55,7 @@ https://standards.iso.org/ittf/PubliclyAvailableStandards/index.html
 - ITU-T: ITU-T for ITU Telecommunication Standardization Sector，国际电信联盟电信标准分局
 
 ITU: International Telecommunication Union，国际电信联盟
+
+公开可用的标准
+https://www.itu.int/ITU-T/recommendations/index.aspx
+

@@ -5,9 +5,9 @@ Open Systems Interconnection 开放系统互连
 
 ## ISO/IEC 7498
 
-Basic Reference Model  基本操作模型
+Basic Reference Model  基本参考模型
 
-基本操作模型分为如下三块：
+基本参考模型分为如下三块：
 + ISO/IEC 7498-1:1994 Basic Reference Model: The Basic Model 基本模型
 
 https://www.iso.org/standard/20269.html
@@ -24,11 +24,11 @@ https://www.iso.org/standard/14256.html
 
 OSI七层网络模型：
 + Application，应用层
-+ Presentation，表示层
-+ Session，会话层，Data
-+ Transport，传输层，Segment、Datagram
-+ Network，网络层，Packet
-+ Data link，数据链路层，Frame
++ Presentation，表示层，Context
++ Session，会话层，Connection、Data
++ Transport，传输层，Segment、Datagram，传输控制
++ Network，网络层，Packet，决定数据的选择和转寄
++ Data link，数据链路层，Frame，负责网络寻址、错误侦测和改错
    + logical link control，LLC，逻辑链路控制子层
    + medial access control，MAC，介质访问控制子层
 + Physical，物理层，Bit、Symbol
@@ -52,6 +52,7 @@ https://www.itu.int/itu-t/recommendations/rec.aspx?rec=2820
 https://standards.iso.org/ittf/PubliclyAvailableStandards/index.html
 
 
+## ITU-T标准
 - ITU-T: ITU-T for ITU Telecommunication Standardization Sector，国际电信联盟电信标准分局
 
 ITU: International Telecommunication Union，国际电信联盟

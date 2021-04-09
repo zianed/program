@@ -1,7 +1,7 @@
 # I2C总线
 
 ## I2C
-Inter-Integrated Circuit，集成电路总线，串行通信总线，首先由飞利浦制定。低速总线。
+Inter-Integrated Circuit，集成电路总线，串行通信总线，首先由飞利浦制定。低速同步总线。
 
 半双工，只有2根线。
 

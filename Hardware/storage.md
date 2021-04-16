@@ -28,3 +28,10 @@
 
 ## EMMC
 
+
+## UFS
+
+- Universal Flash Storage (UFS)
+https://www.jedec.org/standards-documents/focus/flash/universal-flash-storage-ufs
+
+

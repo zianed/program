@@ -4,7 +4,7 @@ UART总线
 ## UART
 Universal Asynchronous Receiver/Transmitter，通用异步接收器/发送器。异步串行总线，没有时钟，一般叫做串口。
 
-UART是异步串行通信口的总称。
+UART是异步串行通信口的总称。点对点。
 RS232、RS449、RS423、RS422等，是对应各种异步串行通信口的接口标准和总线标准，属于通信网络中的物理层。
 
 COM是PC上异步通信口的简称，IBM的外部接口配置为RS232，成为默认的标准。

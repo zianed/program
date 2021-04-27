@@ -10,7 +10,7 @@ The organization actively promotes and encourages the adoption of its specificat
 内部以Group的形式来运作，分为12个Group。
 
 采用差分结构，利用几百mV的差分信号，在收端和发端之间传送数据。
-- 串行比并行比，更节省PCB电路板的布线面积，增强空间利用率。
+- 串行与并行相比，更节省PCB电路板的布线面积，增强空间利用率。
 - 差分信号增强了自身的电磁干扰（Electromagnetic Interference 简称EMI）能力，减少了对其他信号的干扰。
 - 低的电压摆幅可以实现跟高的速度，更小的功耗。
 
